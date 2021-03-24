@@ -63,7 +63,7 @@ LTTS Intern
 ## Projects:
 
 1.  [DemoKart WebAPP With TSQL DB](https://dev.azure.com/nishanthawaliya/99003649_DemoKartWebAPI)
-2.  [Embadded Lab Management API](https://dev.azure.com/nishanthawaliya/99003649_EMB_Lab_Management)
+2.  [Embedded Lab Management API](https://dev.azure.com/nishanthawaliya/99003649_EMB_Lab_Management)
 3.  [DemoKart](https://github.com/99003649/DemoKart)
 4.  [DemoKartDB](https://github.com/99003649/DemoKart_DB)
-5.  [Embadded Lab Management System MVC](https://dev.azure.com/nishanthawaliya/99003649_MVC_API_EmbeddedLab)
+5.  [Embedded Lab Management System MVC](https://dev.azure.com/nishanthawaliya/99003649_MVC_API_EmbeddedLab)
