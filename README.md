@@ -1,1 +1,66 @@
-# Profile
+# Nishant Hawaliya
+99003649  
+LTTS Intern
+
+## Technologies Learned:
+
+1. SDLC(Software Development Life Cycle) 
+2. C# (Programming) 
+3. TSQL (DataBase) 
+4. LINQ 
+
+## Frameworks:
+
+1. .NET Framework
+2. ADO.NET Framework 
+3. LinQ 
+4. Entity Framework 
+5. Web API Framework 
+6. MVC Framework 
+7. Layered Architecture(DB first Approach) 
+
+## Tools:
+
+1. Visual Studio 2019
+2. SSMS 
+3. PostMan 
+4. LINQPad
+
+## Platform:
+
+1. Azure DevOps 
+2. Github 
+
+# Badges
+
+## Hackerrank Badges
+
+![HackerRankBadges](https://user-images.githubusercontent.com/78849753/112249862-7dd7e180-8c7e-11eb-97da-60d8223dff82.PNG)
+
+## Microsoft Badges & Trophies
+[Miocrosoft Certificate](https://docs.microsoft.com/en-us/users/nishanthawaliya-6479/achievements)
+
+![MicrosoftBadges](https://user-images.githubusercontent.com/78849753/112250562-985e8a80-8c7f-11eb-97a1-f9f66f3c2fb3.PNG)
+
+![Trophies](https://user-images.githubusercontent.com/78849753/112250864-30f50a80-8c80-11eb-958e-28243cd53f81.PNG)
+
+## Certification
+
+[Hackerrank Certificate](https://www.hackerrank.com/certificates/25ac90143162)
+
+![HackerRank](https://user-images.githubusercontent.com/78849753/112251378-238c5000-8c81-11eb-8a3e-f809d2130201.PNG)
+
+
+## Links
+
+[Azure Repositories](https://dev.azure.com/nishanthawaliya/)
+
+[Github Repositories](https://github.com/99003649)
+
+## Projects:
+
+1.  [DemoKart WebAPP With TSQL DB](https://dev.azure.com/nishanthawaliya/99003649_DemoKartWebAPI)
+2.  [Embadded Lab Management API](https://dev.azure.com/nishanthawaliya/99003649_EMB_Lab_Management)
+3.  [DemoKart](https://github.com/99003649/DemoKart)
+4.  [DemoKartDB](https://github.com/99003649/DemoKart_DB)
+5.  [Embadded Lab Management System MVC](https://dev.azure.com/nishanthawaliya/99003649_MVC_API_EmbeddedLab)
