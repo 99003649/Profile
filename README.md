@@ -1,5 +1,6 @@
 # Nishant Hawaliya
 99003649  
+nishant.hawaliya@ltts.com
 LTTS Intern
 
 ## Technologies Learned:
@@ -13,11 +14,12 @@ LTTS Intern
 
 1. .NET Framework
 2. ADO.NET Framework 
-3. LinQ 
-4. Entity Framework 
-5. Web API Framework 
-6. MVC Framework 
-7. Layered Architecture(DB first Approach) 
+3. ASP.NET
+4. LinQ 
+5. Entity Framework 
+6. Web API Framework 
+7. MVC Framework 
+8. Layered Architecture(DB first Approach) 
 
 ## Tools:
 
@@ -28,8 +30,8 @@ LTTS Intern
 
 ## Platform:
 
-1. Azure DevOps 
-2. Github 
+1. Github  
+2. Azure DevOps
 
 # Badges
 
