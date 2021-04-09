@@ -49,9 +49,12 @@ LTTS Intern
 
 ## Certification
 
-[Hackerrank Certificate](https://www.hackerrank.com/certificates/25ac90143162)
+[CSharp Certificate](https://www.hackerrank.com/certificates/25ac90143162)
+[SQL Certificate](https://www.hackerrank.com/certificates/fedcd83bf2d6)
 
 ![HackerRank](https://user-images.githubusercontent.com/78849753/112251378-238c5000-8c81-11eb-8a3e-f809d2130201.PNG)
+![SQLCertificateHR](https://user-images.githubusercontent.com/78849753/114145901-8f82df80-9934-11eb-9333-1b603206e97c.PNG)
+
 
 
 ## Links
